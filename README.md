@@ -31,3 +31,10 @@ SharedPreferences (Local Storage)
 Clean Architecture
 
 Material UI
+
+# APP Screen Shots
+
+<img width="1920" height="1440" alt="954shots_so" src="https://github.com/user-attachments/assets/58d2236b-a476-4275-9f4c-ed314e217f5c" />
+
+
+
